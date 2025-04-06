@@ -1,6 +1,6 @@
 <template>
   <div>
-    <pre>{{ data }}<pre>
+    <pre>{{ data }}</pre>
   </div>
 </template>
 <script setup lang="ts">
